@@ -18,7 +18,6 @@ If you have any questions, suggestions, or interesting ideas for collaboration, 
 
  - VKontakte: Dima
  - Telegram: @hexvel
- - Email: hexvel@example.com
 
 ## Acknowledgment
 
