@@ -10,7 +10,7 @@ Here you can find various projects in which I have participated or worked on. My
 
 my work, I primarily Python for crafting amazing applications. also have experience with HTML, CSS, and JavaScript for creating user interfaces. Additionally, I use frameworks and libraries such as React, Angular, or Vue.js for building scalable web applications. I utilize build tools like Webpack or Parcel for project optimization and dependency management. Furthermore, I am proficient in utilizing Git and GitHub for version control and collaboration
 
-[![My Skills](https://skillicons.dev/icons?i=py,vim,vite,js,html,css,scss,nodejs,react,vuejs,angular,git,vscode,atom,figma,bootstrap,fastapi,flask,gitlab,idea,mongodb,postgres,postman,sqlite,stackoverflow,ts)](https://vk.com/official_hexvel)
+[![My Skills](https://skillicons.dev/icons?i=py,vim,vite,js,cs,html,css,scss,nodejs,react,vuejs,angular,git,vscode,atom,figma,bootstrap,fastapi,flask,gitlab,idea,mongodb,postgres,postman,sqlite,stackoverflow,ts)](https://vk.com/official_hexvel)
 
 ## How to Contact
 
