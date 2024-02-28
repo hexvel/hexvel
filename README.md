@@ -25,6 +25,6 @@ Thank you for visiting my GitHub profile! I am thrilled to share my projects and
 
 Let's make the Python community better together! 🚀
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hexvel&theme=algolia)
+![](https://github-readme-stats.vercel.app/api?username=hexvel&show_icons=true&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hexvel&theme=algolia) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hexvel&theme=algolia)
