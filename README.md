@@ -21,7 +21,7 @@
 <br/>
 
 <h3>
-    I primarily Python for crafting amazing applications. also have experience with HTML, CSS, and JavaScript for creating user interfaces. Additionally, I use frameworks and libraries such as React, Next, or Vue.js for building scalable web applications. I utilize build tools like Webpack or Parcel for project optimization and dependency management. Furthermore, I am proficient in utilizing Git and GitHub for version control and collaboration.
+    Hi. My name is Dilmurod, I do full-stack development on technologies like Python, JavaScript, C#, React.JS, Nest.JS, Vue.JS, Next.JS. As UI components I use solutions from shadcn-ui, aceternity, daisy-ui, radix-ui or do everything myself. I also use SCSS preprocessor for easy styling.
 </h3>
 
 <details open> 
