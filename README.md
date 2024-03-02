@@ -20,12 +20,9 @@
 
 <br/>
 
-<details open> 
-  <summary><h2>❤️ About me</h2></summary>
-  <h3>
+<h3>
     I primarily Python for crafting amazing applications. also have experience with HTML, CSS, and JavaScript for creating user interfaces. Additionally, I use frameworks and libraries such as React, Next, or Vue.js for building scalable web applications. I utilize build tools like Webpack or Parcel for project optimization and dependency management. Furthermore, I am proficient in utilizing Git and GitHub for version control and collaboration.
-  </h3>
-</details>
+</h3>
 
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
