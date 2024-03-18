@@ -42,9 +42,6 @@
     <a href="https://github.com/hexvel/user_async_bot">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hexvel&repo=user_async_bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
     </a>
-    <a href="https://github.com/hexvel/telegram_game_bot">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hexvel&repo=telegram_game_bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
-    </a>
     <a href="https://github.com/hexvel/rotation-matrix">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=hexvel&repo=rotation-matrix&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
     </a>
