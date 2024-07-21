@@ -66,7 +66,7 @@
 <details> 
   <summary><h2>📺 YouTube Channel</h2></summary>
 
-  <p>📺 Subscribe to channel <a href="https://github.com/@hexvel">Hexvel</a></p>
+  <p>📺 Subscribe to channel <a href="https://youtube.com/@hexvel">Hexvel</a></p>
   
   <a href="https://www.youtube.com/@hexvel?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
   
