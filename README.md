@@ -6,14 +6,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.youtube.com/@hexvel"><img width="52px" alt="Youtube" title="Youtube" src="https://i.imgur.com/ObZfu5i.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://vk.com/official_hexvel"><img width="52px" alt="official_hexvel" title="VK" src="https://i.imgur.com/QPzjsql.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/68AbwAUR" alt="Discord" title="Hexvel's Discord Server"><img width="42px" src="https://i.imgur.com/PYkUH5F.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/hexvel"><img width="45px" alt="Telegram" title="Telegram hexvel" src="https://i.imgur.com/gn20Xje.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img src="https://cdn.codechef.com/images/home/coding_boy.svg" />
 </p>
 
 <br/>
