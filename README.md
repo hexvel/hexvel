@@ -14,7 +14,7 @@
 <br/>
 
 <h3>
-    Hi. My name is Dilmurod, I do full-stack development on technologies like Python, JavaScript, C#, React.JS, Nest.JS, Vue.JS, Next.JS. As UI components I use solutions from shadcn-ui, aceternity, daisy-ui, radix-ui or do everything myself. I also use SCSS preprocessor for easy styling.
+    Hi, my name is Dilmurod. I am a full-stack developer proficient in technologies such as Python, JavaScript, C#, React.js, Nest.js, Vue.js, and Next.js. For UI components, I utilize solutions from shadcn-ui, Aceternity, daisyUI, radix-ui, or I create custom components myself. I also use the SCSS preprocessor for streamlined styling.
 </h3>
 
 <details open> 
