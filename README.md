@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/hexvel">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F71581&center=true&vCenter=true&random=false&width=435&lines=Dilmurod+Abdukarimov" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F71581&center=true&vCenter=true&random=false&width=435&lines=DILMUROD+ABDUKARIMOV" alt="Typing SVG" />
   </a>
 </h1>
 
